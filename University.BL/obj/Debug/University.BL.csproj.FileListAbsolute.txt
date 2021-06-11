@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\University\University.BL\obj\Debug\University.BL.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\University\University.BL\obj\Debug\University.BL.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\University\University.BL\bin\Debug\University.BL.dll
+C:\Users\andre\source\repos\University\University.BL\bin\Debug\University.BL.pdb
+C:\Users\andre\source\repos\University\University.BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andre\source\repos\University\University.BL\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\andre\source\repos\University\University.BL\bin\Debug\Plugin.Connectivity.dll
+C:\Users\andre\source\repos\University\University.BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andre\source\repos\University\University.BL\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\andre\source\repos\University\University.BL\bin\Debug\Plugin.Connectivity.xml
+C:\Users\andre\source\repos\University\University.BL\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\andre\source\repos\University\University.BL\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\andre\source\repos\University\University.BL\obj\Debug\University.BL.csproj.CopyComplete
+C:\Users\andre\source\repos\University\University.BL\obj\Debug\University.BL.dll
+C:\Users\andre\source\repos\University\University.BL\obj\Debug\University.BL.pdb
